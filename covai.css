@@ -201,6 +201,8 @@ font-weight: 900;
     line-height: 1.7em;
 }
 
+/* values  */
+
 .values_wrapper{
     background-color: #f9f9f9;
     padding: 90px 0;
@@ -245,6 +247,10 @@ font-weight: 900;
 .value_card p{
     line-height: 1.4em;
     font-size: 18px;
+}
 
-
+/* team  */
+.team_imgwrapper{
+    padding: 90px 0;
+    text-align: center;
 }
