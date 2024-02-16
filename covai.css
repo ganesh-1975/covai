@@ -254,3 +254,32 @@ font-weight: 900;
     padding: 90px 0;
     text-align: center;
 }
+
+.team_imgwrapper h2{
+    font-size: 47px;
+    line-height: 1.2em;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.team_imgwrapper p{
+    font-size: 25px;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+.para_style p{
+    font-size: 20px;
+    line-height: 1.7em;
+}
+
+.team_btn{
+    background-color: black;
+    color: white;
+    padding: 20px 40px;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 16px;
+    font-weight: bolder;
+    cursor: pointer;
+}
