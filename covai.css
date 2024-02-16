@@ -343,3 +343,58 @@ font-size: 47px;
     line-height: 1.6em ;
     margin: 0;
 }
+
+/* Awards  */
+.Awards{
+    padding: 90px 0;
+    text-align: center;
+    background-color: #f9f9f9;
+}
+
+.Awards h2{
+    font-size: 47px;
+    line-height: 1.2em;
+    font-weight: 800;
+}
+
+/* footer  */
+.footer_covai{
+    padding: 80px 0;
+    display: flex;
+}
+
+.partner{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 30%;
+    gap: 20px;
+}
+
+.partner ul{
+    padding-inline-start: 0;
+}
+
+.social_iconswrapper{
+    display: flex;
+    gap: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
+
+.social_icons{
+    padding: 12px;
+    background-color: #F7F7F7;
+    border-radius: 12px;
+    margin-top: 25px;
+}
+
+.social_icons:hover{
+    background-color: #fcb900;
+}
