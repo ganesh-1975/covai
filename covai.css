@@ -182,3 +182,21 @@ font-weight: 900;
     font-size: 28px;
     line-height: 1.6em;
 }
+
+/* longterm_Bussiness  */
+.longterm_Bussiness{
+    display: flex;
+    gap: 100px;
+    padding: 200px 0;
+}
+
+.longterm_text h2{
+    font-size: 47px;
+line-height: 1.2em;
+font-weight: 900;
+}
+
+.longterm_text{
+    font-size: 20px;
+    line-height: 1.7em;
+}
