@@ -4,6 +4,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   font-family: "Fira Sans", sans-serif;
+  
 }
 
 .container{
@@ -113,12 +114,22 @@ main{
 
 .products_wrapper{
     height: calc(100vh - 120px);
+    line-height: 1.6em;
+    letter-spacing: 0.02em;
+    background-color: rgba(235, 248, 254, 0.694);
 }
 
 .card{
     padding: 28px;
-    width: 190px;
+    width: 290px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.333);
+    -webkit-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.267);
+    -moz-box-shadow: 0px 0px 1px 0px rgba(0, 0, 0, 0.42);
 }
+
+
 
 .card a{
     color: black;
