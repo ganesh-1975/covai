@@ -283,3 +283,63 @@ font-weight: 900;
     font-weight: bolder;
     cursor: pointer;
 }
+
+/* company_numbers  */
+.company_numbers{
+    padding: 90px 0;
+
+}
+
+.numbercard_wrapper{
+    display: flex;
+    gap: 30px;
+}
+
+.number_card{
+    padding: 30px 0;
+    text-align: center;
+    background-color: #ffcc00;
+    width: 320px;
+    border-radius: 18px;
+}
+
+.number_card h1{
+    font-size: 75px;
+    line-height: 1em;
+    color: #000000;
+    font-weight: 900;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.number_card p{
+    font-size: 20px;
+    line-height: 1.7em;
+    margin: 0;
+}
+
+.top_align{
+    margin-top: 48px;
+}
+
+.bottom_align{
+    margin-bottom: 48px;
+}
+
+.companynum_text{
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+.companynum_text h2{
+font-size: 47px;
+    line-height: 1.2em;
+    margin: 0;
+}
+
+.companynum_text p{
+
+    font-size: 25px ;
+    line-height: 1.6em ;
+    margin: 0;
+}
