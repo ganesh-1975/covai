@@ -1,0 +1,218 @@
+@media only screen and (max-width: 600px) {
+  .nav_items {
+    display: none;
+  }
+
+  nav {
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .container {
+    margin: 0;
+    padding: 0;
+  }
+
+  main {
+    height: fit-content;
+  }
+
+  .banner_text {
+    background-color: #ffcc00;
+    padding: 30px;
+  }
+
+  .banner_text h1 {
+    font-size: 30px;
+    line-height: 1.2em;
+    font-weight: 900;
+  }
+
+  .banner_text p {
+    font-size: 20px;
+    line-height: 1.6em;
+  }
+
+  .banner_img {
+    display: none;
+  }
+
+  .products_wrapper {
+    line-height: 1.6em;
+    letter-spacing: 0.02em;
+    background-color: rgba(235, 248, 254, 0.694);
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    gap: 0;
+  }
+
+  .cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .card_coloumn2 {
+    margin-top: 0;
+  }
+
+  .product_text {
+    padding: 0;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+
+  .product_text h2 {
+    font-size: 40px;
+    line-height: 1.2em;
+    font-weight: 900;
+  }
+
+  .product_text p {
+    font-size: 20px;
+    line-height: 1.6em;
+  }
+
+  .longterm_Bussiness {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+
+  .longterm_text h2 {
+    font-size: 40px;
+    line-height: 1.2em;
+    font-weight: 900;
+  }
+
+  .longterm_text {
+    font-size: 16px;
+    line-height: 1.7em;
+  }
+
+  .img_longbussiness {
+    width: 400px;
+  }
+
+  .values_wrapper {
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  .value_cardswrapper h2 {
+    font-size: 40px;
+    line-height: 1.2em;
+    font-weight: 900;
+    text-align: center;
+  }
+  .fontsize {
+    font-size: 20px;
+    margin-top: 0;
+  }
+
+  .team_imgwrapper {
+    margin-bottom: 50px;
+  }
+
+  .handle_img {
+    width: 400px;
+  }
+
+  .company_numbers {
+    padding: 20px;
+  }
+
+  .numbercard_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .top_align {
+    margin-top: 0px;
+  }
+
+  .bottom_align {
+    margin-bottom: 0px;
+  }
+
+  .companynum_text {
+    margin: 0;
+  }
+
+  .companynum_text h2 {
+    font-size: 40px;
+    line-height: 1.2em;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .companynum_text p {
+    font-size: 18px;
+    line-height: 1.6em;
+    margin: 0;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  .award_img {
+    height: 150px;
+  }
+
+  .footer_covai {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px 0;
+  }
+
+  .footer_covai h5 {
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 14px;
+    line-height: 1.4em;
+    font-weight: 800;
+    letter-spacing: 0.025em;
+  }
+
+  .footer_covai ul li {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+
+  .company_linkswrapper2 a {
+    font-size: 14px;
+  }
+
+  .company_linkswrapper2 ul {
+    margin-top: 40px;
+  }
+  .company_linkswrapper2 ul li {
+    margin-bottom: 5px;
+  }
+
+  .partner {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 30px;
+  }
+
+  .social_iconswrapper {
+    display: flex;
+    gap: 20px;
+  }
+
+  
+
+  .copyright {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
